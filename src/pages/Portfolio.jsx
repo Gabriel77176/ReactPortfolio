@@ -37,7 +37,7 @@ const Portfolio = () => {
       <Card
           className="max-w-sm mx-auto mb-12"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="../public/images/project-hero.png"
+          imgSrc="..//images/project-hero.png"
       >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900">
               Hero Block Gallery
@@ -50,7 +50,7 @@ const Portfolio = () => {
       <Card
           className="max-w-sm mx-auto mb-12"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="../public/images/project-fashion.jpg"
+          imgSrc="..//images/project-fashion.jpg"
       >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
               Snazzy Fashion
@@ -63,7 +63,7 @@ const Portfolio = () => {
       <Card
           className="max-w-sm mx-auto mb-12"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="../public/images/project-smoothie.jpg"
+          imgSrc="..//images/project-smoothie.jpg"
       >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
               Smooth Smoothies
@@ -76,7 +76,7 @@ const Portfolio = () => {
       <Card
           className="max-w-sm mx-auto mb-12"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="../public/images/project-multi-col.png"
+          imgSrc="..//images/project-multi-col.png"
       >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900">
               Multi-column Layouts
@@ -89,7 +89,7 @@ const Portfolio = () => {
       <Card
           className="max-w-sm mx-auto mb-12"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="../public/images/store.png"
+          imgSrc="..//images/store.png"
       >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
               Online Store
@@ -102,7 +102,7 @@ const Portfolio = () => {
       <Card
           className="max-w-sm mx-auto mb-12"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="../public/images/project-crypto-wallet.jpg"
+          imgSrc="..//images/project-crypto-wallet.jpg"
       >
           <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
               Crypto Wallet

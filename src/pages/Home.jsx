@@ -23,7 +23,7 @@ const Home = () => {
                     </div>
                     <div
                         className="hidden lg:mt-0 lg:col-span-5 lg:flex bg-white items-center justify-center rounded-full">
-                        <img src="../../public/images/portrait.png" alt="mockup"
+                        <img src="../..//images/portrait.png" alt="mockup"
                              className="w-full h-full rounded-full"/>
                     </div>
                 </div>
@@ -60,7 +60,7 @@ const Home = () => {
                 <Card
                     className="max-w-sm mx-auto"
                     imgAlt="Meaningful alt text for an image that is not purely decorative"
-                    imgSrc="../public/images/project-hero.png"
+                    imgSrc="..//images/project-hero.png"
                 >
                     <h5 className="text-2xl font-bold tracking-tight text-gray-900">
                         Hero Block Gallery
@@ -73,7 +73,7 @@ const Home = () => {
                 <Card
                     className="max-w-sm mx-auto"
                     imgAlt="Meaningful alt text for an image that is not purely decorative"
-                    imgSrc="../public/images/project-fashion.jpg"
+                    imgSrc="..//images/project-fashion.jpg"
                 >
                     <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                         Snazzy Fashion
@@ -86,7 +86,7 @@ const Home = () => {
                 <Card
                     className="max-w-sm mx-auto"
                     imgAlt="Meaningful alt text for an image that is not purely decorative"
-                    imgSrc="../public/images/project-smoothie.jpg"
+                    imgSrc="..//images/project-smoothie.jpg"
                 >
                     <h5 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                         Smooth Smoothies
