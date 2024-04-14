@@ -23,7 +23,7 @@ const Home = () => {
                     </div>
                     <div
                         className="hidden lg:mt-0 lg:col-span-5 lg:flex bg-white items-center justify-center rounded-full">
-                        <img src="../..//images/portrait.png" alt="mockup"
+                        <img src="public/images/portrait.png" alt="mockup"
                              className="w-full h-full rounded-full"/>
                     </div>
                 </div>
